@@ -16,3 +16,4 @@ Create an application that allows to:
     - Students with the best school situation, sorted in descending order of the average grade received for all graded assignments.
 5. Unlimited undo/redo functionality. Each step will undo/redo the previous operation performed by the user. Undo/redo operations must cascade and have a memory-efficient implementation (no superfluous list copying)
  
+    This project was developed for an assignment during the lab activity in the Fundamentals of Programming course, Semester 1
