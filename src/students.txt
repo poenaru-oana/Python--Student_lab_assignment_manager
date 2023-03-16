@@ -1,0 +1,13 @@
+1,Gabriel Popa,914
+2,Daniel Stanciu,912
+3,Denisa Radac,916
+4,Adrian Luca,917
+5,Adrian Luca,917
+6,Gheorghe Costea,916
+7,Dana Petrescu,912
+8,Denisa Nita,913
+9,Gheorghe Rusu,914
+10,Dana Ungureanu,911
+11,Robert Radac,912
+12,Horea Nicolae,916
+13,Diana Craciun,916
